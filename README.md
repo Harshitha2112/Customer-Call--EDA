@@ -94,10 +94,10 @@ After cleaning, additional address fields such as `Street_Address`, `State`, and
 ## 📁 Project Structure
 
 ```text
-Customer-Call-List-Cleaning/
+Customer Call EDA/
 │
-├── Customer_Call_List_Cleaning.ipynb
-├── Customer Call List.xlsx
+├── Customer Call List.ipynb
+├── Customer Care.xlsx
 └── README.md
 ```
 
