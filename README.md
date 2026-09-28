@@ -1,7 +1,7 @@
 
 # 📞 Customer Call List Data Cleaning
 
-## 📌 Project Overview
+## 📌 Project Overview.
 
 This project focuses on **cleaning and preprocessing a customer call list dataset** using Python and Pandas.
 
