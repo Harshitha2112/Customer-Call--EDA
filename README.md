@@ -7,7 +7,7 @@ This project focuses on **cleaning and preprocessing a customer call list datase
 
 The dataset contains customer information such as names, phone numbers, addresses, payment status, and contact preferences. The main goal is to transform messy raw data into a cleaner and more consistent format.
 
-## 🎯 Objectives
+## 🎯 Objectives.
 
 - Remove duplicate records
 - Remove unnecessary columns
